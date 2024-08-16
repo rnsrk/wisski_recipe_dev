@@ -1,5 +1,5 @@
 {
-    "name": "rnsrk/wisski-dev",
+    "name": "rnsrk/wisski_recipe_dev",
     "description": "Installs and configures the WissKI dev site and supporting base modules.",
     "keywords": ["recipe", "Drupal recipes", "drupal recipe"],
     "type": "drupal-recipe",
