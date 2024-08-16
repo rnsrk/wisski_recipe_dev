@@ -18,6 +18,12 @@
         "drupal/leaflet": "*",
         "drupal/viewfield": "^3.0@beta",
         "drupal/inline_entity_form": "^3.0@RC",
-        "drupal/wisski": "3.x-dev@dev"
-    }
+        "rnsrk/wisski": "8.x-3.x"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/rnsrk/wisski.git"
+        }
+    ]
 }
