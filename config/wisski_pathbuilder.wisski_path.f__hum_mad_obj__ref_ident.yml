@@ -1,0 +1,18 @@
+uuid: 848f065b-cc7c-4cb8-83eb-537892b3c494
+langcode: en
+status: true
+dependencies: {  }
+id: f__hum_mad_obj__ref_ident
+name: 'Link to Authority File'
+path_array:
+  - 'http://erlangen-crm.org/240307/E22_Human-Made_Object'
+  - 'http://erlangen-crm.org/240307/P1_is_identified_by'
+  - 'http://erlangen-crm.org/240307/E42_Identifier'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

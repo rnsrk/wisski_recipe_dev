@@ -1,0 +1,11 @@
+uuid: cd2fa479-17e1-4150-91ba-54f4f6e64df8
+langcode: en
+status: true
+dependencies: {  }
+id: bc58c70a05b85a71576de1b97ed2779e
+label: 'Transfer of Custody'
+title_pattern: ''
+on_empty: 3
+fallback_title: 'WissKI Entity'
+pager_limit: 10
+menu_items: {  }

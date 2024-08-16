@@ -1,0 +1,18 @@
+uuid: d57ad857-aa7e-4b46-88fa-ef89a6a5faeb
+langcode: en
+status: true
+dependencies: {  }
+id: f__event__ref_place
+name: Location
+path_array:
+  - 'http://erlangen-crm.org/240307/E5_Event'
+  - 'http://erlangen-crm.org/240307/P7_took_place_at'
+  - 'http://erlangen-crm.org/240307/E53_Place'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

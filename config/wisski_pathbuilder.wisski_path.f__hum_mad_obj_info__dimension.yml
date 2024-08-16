@@ -1,0 +1,18 @@
+uuid: df78c807-a2b5-4ee0-8f03-5421ba4f5a99
+langcode: en
+status: true
+dependencies: {  }
+id: f__hum_mad_obj_info__dimension
+name: Dimension
+path_array:
+  - 'http://wiss-ki.eu/ontology/1.1.0/HumanMadeObjectInformation'
+  - 'http://erlangen-crm.org/240307/P141_assigned'
+  - 'http://erlangen-crm.org/240307/E54_Dimension'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

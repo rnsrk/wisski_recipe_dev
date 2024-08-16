@@ -1,0 +1,18 @@
+uuid: e0d88d0a-01ff-4324-8c9e-33ef05afe372
+langcode: en
+status: true
+dependencies: {  }
+id: f__part_rem__feature
+name: 'Remove feature'
+path_array:
+  - 'http://erlangen-crm.org/240307/E80_Part_Removal'
+  - 'http://erlangen-crm.org/240307/P113_removed'
+  - 'http://erlangen-crm.org/240307/E25_Human-Made_Feature'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

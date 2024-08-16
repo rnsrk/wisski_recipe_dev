@@ -1,0 +1,16 @@
+uuid: 95ac7924-f069-4aa5-8c53-26a3817b0ac9
+langcode: en
+status: true
+dependencies: {  }
+id: g__authority_document
+name: 'Authority document'
+path_array:
+  - 'http://erlangen-crm.org/240307/E32_Authority_Document'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: null
+irreflexive: null

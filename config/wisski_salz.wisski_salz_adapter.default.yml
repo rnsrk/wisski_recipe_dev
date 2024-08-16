@@ -1,0 +1,30 @@
+uuid: 14bd95c1-b42d-40e9-b9c6-def2a83fa44d
+langcode: en
+status: true
+dependencies:
+  module:
+    - wisski_adapter_sparql11_pb
+id: default
+label: 'Default WissKI Distillery Adapter'
+description: 'Default Adapter for kur.wisski.cloud'
+engine_id: sparql11_with_pb
+engine:
+  allow_inverse_property_pattern: 0
+  header: dHMtZGlzdGlsbGVyeS1rdXI6blpLWVhlWERFNTVxWktUa1k3NURsRlFkV29YYjFsSzF4QnF1cTJpRUhJb1NXUHFxUGI2YUtFWFFZVm94MEFsRQ==
+  read_url: 'http://triplestore:7200/repositories/ts-distillery-kur'
+  write_url: 'http://triplestore:7200/repositories/ts-distillery-kur/statements'
+  is_federatable: 0
+  graph_rewrite: null
+  default_graph: 'https://kur.wisski.cloud/'
+  ontology_graphs:
+    - ''
+  has_drupal_id: 'graf://dr.acula/has_drupal_id'
+  has_drupal_namespace: 'graf://dr.acula/'
+  id: sparql11_with_pb
+  is_writable: true
+  is_preferred_local_store: true
+  same_as_properties:
+    - 'http://www.w3.org/2002/07/owl#sameAs'
+  machine-name: default
+  writeable: true
+  adapterId: default

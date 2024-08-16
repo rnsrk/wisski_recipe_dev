@@ -1,0 +1,18 @@
+uuid: 618ea680-4f08-4492-ac5d-29b536f6507e
+langcode: en
+status: true
+dependencies: {  }
+id: f__right__name
+name: Name
+path_array:
+  - 'http://erlangen-crm.org/240307/E30_Right'
+  - 'http://erlangen-crm.org/240307/P1_is_identified_by'
+  - 'http://erlangen-crm.org/240307/E41_Appellation'
+datatype_property: 'http://erlangen-crm.org/240307/P3_has_note'
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

@@ -1,0 +1,147 @@
+uuid: ee8c91f4-e6cd-4e10-97e5-2a5a0928bf8b
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.wisski_individual.b1a0625a1b4f3130039940dae117fb68.f118ff0097ed32013f9839b61f958422
+    - field.field.wisski_individual.b1a0625a1b4f3130039940dae117fb68.f1504fbbddff7cb88904a31730ac7742
+    - field.field.wisski_individual.b1a0625a1b4f3130039940dae117fb68.f1e7e6234b91636aa034984e6307f600
+    - field.field.wisski_individual.b1a0625a1b4f3130039940dae117fb68.f28b0fe6053cfaa8c5b48925f3ba4373
+    - field.field.wisski_individual.b1a0625a1b4f3130039940dae117fb68.f2c113807d532c1c719132bb688b937f
+    - field.field.wisski_individual.b1a0625a1b4f3130039940dae117fb68.f49a75b01b0613089fd80f67b26e7824
+    - field.field.wisski_individual.b1a0625a1b4f3130039940dae117fb68.f5b536b5dcbaec12c33fae557ff8fe13
+    - field.field.wisski_individual.b1a0625a1b4f3130039940dae117fb68.f80c200739e0714eb07c9a98a3fffd75
+    - field.field.wisski_individual.b1a0625a1b4f3130039940dae117fb68.fd8e6d6ef2dd4fd05a38ae7545821335
+    - field.field.wisski_individual.b1a0625a1b4f3130039940dae117fb68.ff31059937e4092c5101ee012fcfee40
+    - wisski_core.wisski_bundle.b1a0625a1b4f3130039940dae117fb68
+  module:
+    - inline_entity_form
+    - text
+id: wisski_individual.b1a0625a1b4f3130039940dae117fb68.default
+targetEntityType: wisski_individual
+bundle: b1a0625a1b4f3130039940dae117fb68
+mode: default
+content:
+  f118ff0097ed32013f9839b61f958422:
+    type: inline_entity_form_complex
+    weight: 10
+    region: content
+    settings:
+      form_mode: default
+      override_labels: false
+      label_singular: ''
+      label_plural: ''
+      allow_new: true
+      allow_existing: false
+      match_operator: CONTAINS
+      allow_duplicate: false
+      collapsible: false
+      collapsed: false
+      revision: false
+      removed_reference: optional
+    third_party_settings: {  }
+  f1504fbbddff7cb88904a31730ac7742:
+    type: string_textfield
+    weight: 6
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  f1e7e6234b91636aa034984e6307f600:
+    type: text_textarea
+    weight: 9
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {  }
+  f28b0fe6053cfaa8c5b48925f3ba4373:
+    type: inline_entity_form_complex
+    weight: 12
+    region: content
+    settings:
+      form_mode: default
+      override_labels: false
+      label_singular: ''
+      label_plural: ''
+      allow_new: true
+      allow_existing: false
+      match_operator: CONTAINS
+      allow_duplicate: false
+      collapsible: false
+      collapsed: false
+      revision: false
+      removed_reference: optional
+    third_party_settings: {  }
+  f2c113807d532c1c719132bb688b937f:
+    type: inline_entity_form_complex
+    weight: 5
+    region: content
+    settings:
+      form_mode: default
+      override_labels: false
+      label_singular: ''
+      label_plural: ''
+      allow_new: true
+      allow_existing: false
+      match_operator: CONTAINS
+      allow_duplicate: false
+      collapsible: false
+      collapsed: false
+      revision: false
+      removed_reference: optional
+    third_party_settings: {  }
+  f49a75b01b0613089fd80f67b26e7824:
+    type: inline_entity_form_complex
+    weight: 8
+    region: content
+    settings:
+      form_mode: default
+      override_labels: false
+      label_singular: ''
+      label_plural: ''
+      allow_new: true
+      allow_existing: false
+      match_operator: CONTAINS
+      allow_duplicate: false
+      collapsible: false
+      collapsed: false
+      revision: false
+      removed_reference: optional
+    third_party_settings: {  }
+  f5b536b5dcbaec12c33fae557ff8fe13:
+    type: string_textfield
+    weight: 3
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  f80c200739e0714eb07c9a98a3fffd75:
+    type: text_textarea
+    weight: 11
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {  }
+  fd8e6d6ef2dd4fd05a38ae7545821335:
+    type: options_select
+    weight: 4
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  ff31059937e4092c5101ee012fcfee40:
+    type: string_textfield
+    weight: 7
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden:
+  created: true
+  label: true
+  name: true
+  uid: true

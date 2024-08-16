@@ -1,0 +1,16 @@
+uuid: 3019ac30-5fe4-4d58-8bfe-57fce0928368
+langcode: en
+status: true
+dependencies: {  }
+id: g__cur_hold
+name: 'Curated Holding'
+path_array:
+  - 'http://erlangen-crm.org/240307/E78_Curated_Holding'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: null
+irreflexive: null

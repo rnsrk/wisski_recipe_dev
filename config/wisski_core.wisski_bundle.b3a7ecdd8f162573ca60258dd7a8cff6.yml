@@ -1,0 +1,11 @@
+uuid: 7fbcab23-41f1-417c-b96e-a324f19dc37d
+langcode: en
+status: true
+dependencies: {  }
+id: b3a7ecdd8f162573ca60258dd7a8cff6
+label: Time-Span
+title_pattern: ''
+on_empty: 3
+fallback_title: 'WissKI Entity'
+pager_limit: 10
+menu_items: {  }

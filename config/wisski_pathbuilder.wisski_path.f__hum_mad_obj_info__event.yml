@@ -1,0 +1,18 @@
+uuid: dfde06f3-02df-4a1c-a832-0523e4e3e1f6
+langcode: en
+status: true
+dependencies: {  }
+id: f__hum_mad_obj_info__event
+name: Event
+path_array:
+  - 'http://wiss-ki.eu/ontology/1.1.0/HumanMadeObjectInformation'
+  - 'http://erlangen-crm.org/240307/P141_assigned'
+  - 'http://erlangen-crm.org/240307/E5_Event'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

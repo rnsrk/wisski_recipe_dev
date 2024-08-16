@@ -1,0 +1,18 @@
+uuid: fe41744c-d9fd-41ff-9d9e-ab95097e91d4
+langcode: en
+status: true
+dependencies: {  }
+id: f__hum_mad_obj__dimension
+name: Dimension
+path_array:
+  - 'http://erlangen-crm.org/240307/E22_Human-Made_Object'
+  - 'http://erlangen-crm.org/240307/P43_has_dimension'
+  - 'http://erlangen-crm.org/240307/E54_Dimension'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

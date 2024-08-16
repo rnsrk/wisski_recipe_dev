@@ -1,0 +1,16 @@
+uuid: 53d6d6aa-62ac-4aad-989f-de1d010eef95
+langcode: en
+status: true
+dependencies: {  }
+id: g__person
+name: Person
+path_array:
+  - 'http://erlangen-crm.org/240307/E21_Person'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: null
+irreflexive: null

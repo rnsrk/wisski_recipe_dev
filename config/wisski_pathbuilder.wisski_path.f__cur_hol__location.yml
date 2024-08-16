@@ -1,0 +1,18 @@
+uuid: 97002d19-4816-480d-b03e-61f9cdeb6928
+langcode: en
+status: true
+dependencies: {  }
+id: f__cur_hol__location
+name: Location
+path_array:
+  - 'http://erlangen-crm.org/240307/E78_Curated_Holding'
+  - 'http://erlangen-crm.org/240307/P53_has_former_or_current_location'
+  - 'http://erlangen-crm.org/240307/E53_Place'
+datatype_property: empty
+short_name: null
+disamb: 2
+length: null
+description: null
+type: Path
+transitive: 0
+irreflexive: 0

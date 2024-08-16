@@ -1,0 +1,13 @@
+uuid: 516fab6c-564a-4ca1-ba60-8b6cedbeef9e
+langcode: en
+status: true
+dependencies: {  }
+id: bb6ca9273196470a4707836b90029c07
+label: 'Ownership and possession'
+title_pattern: ''
+on_empty: 3
+fallback_title: 'WissKI Entity'
+pager_limit: 10
+menu_items:
+  navigate: 3
+  create: 3

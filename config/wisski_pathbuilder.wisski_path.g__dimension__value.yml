@@ -1,0 +1,16 @@
+uuid: 710eb590-2234-4acf-9cf7-d05a88398488
+langcode: en
+status: true
+dependencies: {  }
+id: g__dimension__value
+name: Value
+path_array:
+  - 'http://erlangen-crm.org/240307/E54_Dimension'
+datatype_property: 'http://erlangen-crm.org/240307/P90_has_value'
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

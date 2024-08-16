@@ -1,0 +1,21 @@
+name: 'WissKI base'
+description: 'Basic WissKI environment with default data model.'
+type: 'Site'
+recipes:
+  - standard
+install:
+  - file_mdm_exif
+  - image_effects
+  - imagemagick
+  - geofield
+  - viewfield
+  - entity_inline_form
+  - wisski
+config:
+  import:
+    image_effects: "*"
+    imagemagick: "*"
+    geofield: "*"
+    viewfield: "*"
+    entity_inline_form: "*"
+    wisski: "*"

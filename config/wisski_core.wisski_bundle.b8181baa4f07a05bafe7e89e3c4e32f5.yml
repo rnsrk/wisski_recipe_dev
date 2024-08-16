@@ -1,0 +1,11 @@
+uuid: 2c2cbe5c-adba-4ad3-84e7-287392f1e69d
+langcode: en
+status: true
+dependencies: {  }
+id: b8181baa4f07a05bafe7e89e3c4e32f5
+label: Removal
+title_pattern: ''
+on_empty: 3
+fallback_title: 'WissKI Entity'
+pager_limit: 10
+menu_items: {  }

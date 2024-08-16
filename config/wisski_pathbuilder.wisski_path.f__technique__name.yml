@@ -1,0 +1,18 @@
+uuid: 04d209f5-9f94-4065-bc6e-1185f635d6a0
+langcode: en
+status: true
+dependencies: {  }
+id: f__technique__name
+name: Name
+path_array:
+  - 'http://erlangen-crm.org/240307/E29_Design_or_Procedure'
+  - 'http://erlangen-crm.org/240307/P1_is_identified_by'
+  - 'http://wiss-ki.eu/ontology/1.1.0/PreferredName'
+datatype_property: 'http://erlangen-crm.org/240307/P3_has_note'
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

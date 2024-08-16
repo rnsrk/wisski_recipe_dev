@@ -1,0 +1,16 @@
+uuid: d5513fb0-03f5-4d32-8ea3-c6339a5fdb1e
+langcode: en
+status: true
+dependencies: {  }
+id: g__event
+name: Event
+path_array:
+  - 'http://erlangen-crm.org/240307/E5_Event'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: null
+irreflexive: null

@@ -1,0 +1,18 @@
+uuid: df83261d-186a-4014-90e4-8f88a87a24e9
+langcode: en
+status: true
+dependencies: {  }
+id: f__period__acqu
+name: Acquisition
+path_array:
+  - 'http://erlangen-crm.org/240307/E4_Period'
+  - 'http://erlangen-crm.org/240307/P175i_starts_after_or_with_the_start_of'
+  - 'http://erlangen-crm.org/240307/E8_Acquisition'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

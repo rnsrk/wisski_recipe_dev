@@ -1,0 +1,326 @@
+uuid: 184432d0-9698-4c08-a054-3e00b198710a
+langcode: en
+status: true
+dependencies: {  }
+id: provenance
+name: provenance
+adapter: default
+type: null
+pathtree:
+  g__trans_o_cust:
+    id: g__trans_o_cust
+    children:
+      f__trans_o_cust__ref_person:
+        id: f__trans_o_cust__ref_person
+        children: {  }
+      f__trans_o_cust__ref_person_rec:
+        id: f__trans_o_cust__ref_person_rec
+        children: {  }
+      f__trans_o_cust__ref_group:
+        id: f__trans_o_cust__ref_group
+        children: {  }
+      f__trans_o_cust__ref_group_rec:
+        id: f__trans_o_cust__ref_group_rec
+        children: {  }
+      f__trans_o_cust__time_span:
+        id: f__trans_o_cust__time_span
+        children: {  }
+      f__trans_o_cust__move:
+        id: f__trans_o_cust__move
+        children: {  }
+      f__trans_o_cust__event:
+        id: f__trans_o_cust__event
+        children: {  }
+  g__acquisition:
+    id: g__acquisition
+    children:
+      f__acqu__type:
+        id: f__acqu__type
+        children: {  }
+      f__acqu__per_to:
+        id: f__acqu__per_to
+        children: {  }
+      f__acqu__per_from:
+        id: f__acqu__per_from
+        children: {  }
+      f__acqu__group_from:
+        id: f__acqu__group_from
+        children: {  }
+      f__acqu__group_to:
+        id: f__acqu__group_to
+        children: {  }
+      f__acqu__time_span:
+        id: f__acqu__time_span
+        children: {  }
+  g__move:
+    id: g__move
+    children:
+      f__mov__place_from:
+        id: f__mov__place_from
+        children: {  }
+      f__mov__place_to:
+        id: f__mov__place_to
+        children: {  }
+  g__period:
+    id: g__period
+    children:
+      f__period__acqu:
+        id: f__period__acqu
+        children: {  }
+      f__period__trans_o_cust:
+        id: f__period__trans_o_cust
+        children: {  }
+pbpaths:
+  g__trans_o_cust:
+    id: g__trans_o_cust
+    weight: '62'
+    enabled: '1'
+    parent: '0'
+    bundle: bc58c70a05b85a71576de1b97ed2779e
+    field: ''
+    fieldtype: ''
+    displaywidget: ''
+    formatterwidget: ''
+    cardinality: '-1'
+    field_type_informative: ''
+  g__acquisition:
+    id: g__acquisition
+    weight: '0'
+    enabled: '1'
+    parent: '0'
+    bundle: b974998af83f965d95efe21235197c97
+    field: ''
+    fieldtype: ''
+    displaywidget: ''
+    formatterwidget: ''
+    cardinality: '-1'
+    field_type_informative: ''
+  g__move:
+    id: g__move
+    weight: '0'
+    enabled: '1'
+    parent: '0'
+    bundle: bad442b10d5191921d3fc03a0fbeb4a6
+    field: ''
+    fieldtype: ''
+    displaywidget: ''
+    formatterwidget: ''
+    cardinality: '-1'
+    field_type_informative: ''
+  g__period:
+    id: g__period
+    weight: '0'
+    enabled: '1'
+    parent: '0'
+    bundle: bb6ca9273196470a4707836b90029c07
+    field: null
+    fieldtype: null
+    displaywidget: null
+    formatterwidget: null
+    cardinality: '-1'
+    field_type_informative: null
+  f__trans_o_cust__ref_person:
+    id: f__trans_o_cust__ref_person
+    weight: '63'
+    enabled: '1'
+    parent: g__trans_o_cust
+    bundle: bc58c70a05b85a71576de1b97ed2779e
+    field: f0860941726b34080aff539f66b6b8ac
+    fieldtype: entity_reference
+    displaywidget: inline_entity_form_complex
+    formatterwidget: wisski_entity_reference_label
+    cardinality: '-1'
+    field_type_informative: entity_reference
+  f__trans_o_cust__ref_group:
+    id: f__trans_o_cust__ref_group
+    weight: '65'
+    enabled: '1'
+    parent: g__trans_o_cust
+    bundle: bc58c70a05b85a71576de1b97ed2779e
+    field: f59b019ab5e90ee92e76ad63f003cb73
+    fieldtype: entity_reference
+    displaywidget: inline_entity_form_complex
+    formatterwidget: wisski_entity_reference_label
+    cardinality: '-1'
+    field_type_informative: entity_reference
+  f__trans_o_cust__ref_person_rec:
+    id: f__trans_o_cust__ref_person_rec
+    weight: '64'
+    enabled: '1'
+    parent: g__trans_o_cust
+    bundle: bc58c70a05b85a71576de1b97ed2779e
+    field: ffbbde2c9b3712890a33fba014dd8891
+    fieldtype: entity_reference
+    displaywidget: inline_entity_form_complex
+    formatterwidget: wisski_entity_reference_label
+    cardinality: '-1'
+    field_type_informative: entity_reference
+  f__trans_o_cust__ref_group_rec:
+    id: f__trans_o_cust__ref_group_rec
+    weight: '66'
+    enabled: '1'
+    parent: g__trans_o_cust
+    bundle: bc58c70a05b85a71576de1b97ed2779e
+    field: ff19143aaf6fe0ee143bd61f58e24ca7
+    fieldtype: entity_reference
+    displaywidget: inline_entity_form_complex
+    formatterwidget: wisski_entity_reference_label
+    cardinality: '-1'
+    field_type_informative: entity_reference
+  f__trans_o_cust__event:
+    id: f__trans_o_cust__event
+    weight: '69'
+    enabled: '1'
+    parent: g__trans_o_cust
+    bundle: bc58c70a05b85a71576de1b97ed2779e
+    field: f4bda30f3b6a4b39985a0101d41290c9
+    fieldtype: entity_reference
+    displaywidget: inline_entity_form_complex
+    formatterwidget: wisski_entity_reference_label
+    cardinality: '-1'
+    field_type_informative: entity_reference
+  f__trans_o_cust__time_span:
+    id: f__trans_o_cust__time_span
+    weight: '67'
+    enabled: '1'
+    parent: g__trans_o_cust
+    bundle: bc58c70a05b85a71576de1b97ed2779e
+    field: f8ce4c42096ac3e039f6e817bc1125dc
+    fieldtype: entity_reference
+    displaywidget: inline_entity_form_complex
+    formatterwidget: wisski_entity_reference_label
+    cardinality: '-1'
+    field_type_informative: entity_reference
+  f__acqu__type:
+    id: f__acqu__type
+    weight: '0'
+    enabled: '1'
+    parent: g__acquisition
+    bundle: b974998af83f965d95efe21235197c97
+    field: fe39a54b0ee35ac9e1af42212dfa3198
+    fieldtype: list_string
+    displaywidget: options_select
+    formatterwidget: list_default
+    cardinality: '1'
+    field_type_informative: list_string
+  f__acqu__per_to:
+    id: f__acqu__per_to
+    weight: '1'
+    enabled: '1'
+    parent: g__acquisition
+    bundle: b974998af83f965d95efe21235197c97
+    field: f890a6eb72d6aced487234e4942d98ea
+    fieldtype: entity_reference
+    displaywidget: inline_entity_form_complex
+    formatterwidget: wisski_entity_reference_label
+    cardinality: '-1'
+    field_type_informative: entity_reference
+  f__acqu__per_from:
+    id: f__acqu__per_from
+    weight: '2'
+    enabled: '1'
+    parent: g__acquisition
+    bundle: b974998af83f965d95efe21235197c97
+    field: f86a2b25810b09732383a4bd212e7851
+    fieldtype: entity_reference
+    displaywidget: inline_entity_form_complex
+    formatterwidget: wisski_entity_reference_label
+    cardinality: '1'
+    field_type_informative: entity_reference
+  f__acqu__group_from:
+    id: f__acqu__group_from
+    weight: '3'
+    enabled: '1'
+    parent: g__acquisition
+    bundle: b974998af83f965d95efe21235197c97
+    field: f7e23c8863d7f1a3e66b0d9846faf8f1
+    fieldtype: entity_reference
+    displaywidget: inline_entity_form_complex
+    formatterwidget: wisski_entity_reference_label
+    cardinality: '1'
+    field_type_informative: entity_reference
+  f__acqu__group_to:
+    id: f__acqu__group_to
+    weight: '4'
+    enabled: '1'
+    parent: g__acquisition
+    bundle: b974998af83f965d95efe21235197c97
+    field: f21ac6a33635fdb47ac532cdb991daee
+    fieldtype: entity_reference
+    displaywidget: inline_entity_form_complex
+    formatterwidget: wisski_entity_reference_label
+    cardinality: '1'
+    field_type_informative: entity_reference
+  f__mov__place_from:
+    id: f__mov__place_from
+    weight: '0'
+    enabled: '1'
+    parent: g__move
+    bundle: bad442b10d5191921d3fc03a0fbeb4a6
+    field: ffc98b28d3647f5df3cfb0356e69f809
+    fieldtype: entity_reference
+    displaywidget: inline_entity_form_complex
+    formatterwidget: wisski_entity_reference_label
+    cardinality: '1'
+    field_type_informative: entity_reference
+  f__mov__place_to:
+    id: f__mov__place_to
+    weight: '1'
+    enabled: '1'
+    parent: g__move
+    bundle: bad442b10d5191921d3fc03a0fbeb4a6
+    field: f44dfc082672c0d5799a826303cb497a
+    fieldtype: entity_reference
+    displaywidget: inline_entity_form_complex
+    formatterwidget: wisski_entity_reference_label
+    cardinality: '1'
+    field_type_informative: entity_reference
+  f__trans_o_cust__move:
+    id: f__trans_o_cust__move
+    weight: '68'
+    enabled: '1'
+    parent: g__trans_o_cust
+    bundle: bc58c70a05b85a71576de1b97ed2779e
+    field: ff76903f0840dad9d8b534f7474f50c8
+    fieldtype: entity_reference
+    displaywidget: inline_entity_form_complex
+    formatterwidget: wisski_entity_reference_label
+    cardinality: '1'
+    field_type_informative: entity_reference
+  f__period__acqu:
+    id: f__period__acqu
+    weight: '0'
+    enabled: '1'
+    parent: g__period
+    bundle: bb6ca9273196470a4707836b90029c07
+    field: f741d404f4239f319b186915ba63ef98
+    fieldtype: entity_reference
+    displaywidget: inline_entity_form_complex
+    formatterwidget: wisski_entity_reference_label
+    cardinality: '-1'
+    field_type_informative: entity_reference
+  f__period__trans_o_cust:
+    id: f__period__trans_o_cust
+    weight: '1'
+    enabled: '1'
+    parent: g__period
+    bundle: bb6ca9273196470a4707836b90029c07
+    field: ffa7bf4801a2d90ba6cf54565ba29f4f
+    fieldtype: entity_reference
+    displaywidget: inline_entity_form_complex
+    formatterwidget: wisski_entity_reference_label
+    cardinality: '-1'
+    field_type_informative: entity_reference
+  f__acqu__time_span:
+    id: f__acqu__time_span
+    weight: '5'
+    enabled: '1'
+    parent: g__acquisition
+    bundle: b974998af83f965d95efe21235197c97
+    field: f46bec7ec7560436a0bac1164fd5f3df
+    fieldtype: entity_reference
+    displaywidget: inline_entity_form_complex
+    formatterwidget: wisski_entity_reference_label
+    cardinality: '1'
+    field_type_informative: entity_reference
+with_solr: null

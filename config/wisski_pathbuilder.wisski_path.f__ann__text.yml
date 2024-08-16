@@ -1,0 +1,18 @@
+uuid: d27b1f49-f10d-48d6-aa49-ba72e3310054
+langcode: en
+status: true
+dependencies: {  }
+id: f__ann__text
+name: Text
+path_array:
+  - 'http://erlangen-crm.org/240307/E14_Condition_Assessment'
+  - 'http://erlangen-crm.org/240307/P1_is_identified_by'
+  - 'http://erlangen-crm.org/240307/E35_Title'
+datatype_property: 'http://erlangen-crm.org/240307/P3_has_note'
+short_name: null
+disamb: 0
+length: null
+description: null
+type: Path
+transitive: 0
+irreflexive: 0

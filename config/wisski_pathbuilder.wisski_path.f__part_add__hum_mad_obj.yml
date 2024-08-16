@@ -1,0 +1,18 @@
+uuid: 2c5a7960-3d50-4c0e-823e-904e2fe1515f
+langcode: en
+status: true
+dependencies: {  }
+id: f__part_add__hum_mad_obj
+name: 'Add part'
+path_array:
+  - 'http://erlangen-crm.org/240307/E79_Part_Addition'
+  - 'http://erlangen-crm.org/240307/P111_added'
+  - 'http://erlangen-crm.org/240307/E22_Human-Made_Object'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

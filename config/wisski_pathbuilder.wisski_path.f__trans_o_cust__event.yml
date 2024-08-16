@@ -1,0 +1,18 @@
+uuid: 46dc07ec-9a93-4cfe-a0fb-aac0235dd6e7
+langcode: en
+status: true
+dependencies: {  }
+id: f__trans_o_cust__event
+name: 'Within Event'
+path_array:
+  - 'http://erlangen-crm.org/240307/E10_Transfer_of_Custody'
+  - 'http://erlangen-crm.org/240307/P10_falls_within'
+  - 'http://erlangen-crm.org/240307/E5_Event'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

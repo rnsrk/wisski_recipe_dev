@@ -1,0 +1,16 @@
+uuid: ca62655b-f65f-48fc-9909-7b3b276afa49
+langcode: en
+status: true
+dependencies: {  }
+id: g__transformation
+name: Transformation
+path_array:
+  - 'http://erlangen-crm.org/240307/E81_Transformation'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: null
+irreflexive: null

@@ -1,0 +1,16 @@
+uuid: 2dffe8fd-ae7e-4440-9a59-9744488f1af1
+langcode: en
+status: true
+dependencies: {  }
+id: g__identifier
+name: Identifier
+path_array:
+  - 'http://erlangen-crm.org/240307/E42_Identifier'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: null
+irreflexive: null

@@ -1,0 +1,16 @@
+uuid: 67e67fef-2b19-4045-8f1e-93dd59db176e
+langcode: en
+status: true
+dependencies: {  }
+id: g__place
+name: Place
+path_array:
+  - 'http://erlangen-crm.org/240307/E53_Place'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: null
+irreflexive: null

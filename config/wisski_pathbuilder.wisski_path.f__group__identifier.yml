@@ -1,0 +1,20 @@
+uuid: 3f91e888-3ca3-4659-aa5f-ad8e85d115f0
+langcode: en
+status: true
+dependencies: {  }
+id: f__group__identifier
+name: Identifier
+path_array:
+  - 'http://erlangen-crm.org/240307/E74_Group'
+  - 'http://erlangen-crm.org/240307/P1_is_identified_by'
+  - 'http://erlangen-crm.org/240307/E42_Identifier'
+  - 'http://erlangen-crm.org/240307/P1_is_identified_by'
+  - 'http://wiss-ki.eu/ontology/1.1.0/URL'
+datatype_property: 'http://erlangen-crm.org/240307/P3_has_note'
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

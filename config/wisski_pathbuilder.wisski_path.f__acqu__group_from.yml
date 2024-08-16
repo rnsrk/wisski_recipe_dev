@@ -1,0 +1,18 @@
+uuid: 58e46476-4648-4145-984a-8ee001bb05b5
+langcode: en
+status: true
+dependencies: {  }
+id: f__acqu__group_from
+name: 'From group'
+path_array:
+  - 'http://erlangen-crm.org/240307/E8_Acquisition'
+  - 'http://erlangen-crm.org/240307/P23_transferred_title_from'
+  - 'http://erlangen-crm.org/240307/E74_Group'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

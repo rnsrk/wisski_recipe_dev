@@ -1,0 +1,18 @@
+uuid: 901e6264-706f-4589-b717-e6a8b011156e
+langcode: en
+status: true
+dependencies: {  }
+id: f__hum_mad_obj__description
+name: Description
+path_array:
+  - 'http://erlangen-crm.org/240307/E22_Human-Made_Object'
+  - 'http://erlangen-crm.org/240307/P129i_is_subject_of'
+  - 'http://wiss-ki.eu/ontology/1.1.0/Description'
+datatype_property: 'http://erlangen-crm.org/240307/P3_has_note'
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

@@ -1,0 +1,18 @@
+uuid: 78ec868c-f83f-40a6-b6ff-d7ddcd31ddb3
+langcode: en
+status: true
+dependencies: {  }
+id: f__mov__place_from
+name: 'From place'
+path_array:
+  - 'http://erlangen-crm.org/240307/E9_Move'
+  - 'http://erlangen-crm.org/240307/P27_moved_from'
+  - 'http://erlangen-crm.org/240307/E53_Place'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: 0
+irreflexive: 0

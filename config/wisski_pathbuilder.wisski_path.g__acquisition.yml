@@ -1,0 +1,16 @@
+uuid: e25a93f2-52d0-46c6-b02f-8a86dbbc2507
+langcode: en
+status: true
+dependencies: {  }
+id: g__acquisition
+name: Acquisition
+path_array:
+  - 'http://erlangen-crm.org/240307/E8_Acquisition'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: null
+irreflexive: null

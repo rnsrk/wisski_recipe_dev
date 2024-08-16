@@ -1,0 +1,18 @@
+uuid: 031ddf7a-f6a3-4439-b219-d8e40e5d73ac
+langcode: en
+status: true
+dependencies: {  }
+id: f__ann__svg_layer
+name: 'SVG Layer'
+path_array:
+  - 'http://erlangen-crm.org/240307/E14_Condition_Assessment'
+  - 'http://erlangen-crm.org/240307/P16_used_specific_object'
+  - 'http://erlangen-crm.org/240307/E36_Visual_Item'
+datatype_property: 'http://erlangen-crm.org/240307/P3_has_note'
+short_name: null
+disamb: 0
+length: null
+description: null
+type: Path
+transitive: 0
+irreflexive: 0

@@ -1,0 +1,16 @@
+uuid: fdb0eb55-fcbb-4127-a1a3-c805b5719833
+langcode: en
+status: true
+dependencies: {  }
+id: g__birth
+name: Birth
+path_array:
+  - 'http://erlangen-crm.org/240307/E67_Birth'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: null
+irreflexive: null

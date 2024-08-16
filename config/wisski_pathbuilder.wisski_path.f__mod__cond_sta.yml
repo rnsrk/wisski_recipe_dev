@@ -1,0 +1,18 @@
+uuid: 555525ac-ac84-4e37-8b79-06f521f605c6
+langcode: en
+status: true
+dependencies: {  }
+id: f__mod__cond_sta
+name: 'Motivated by conditional state'
+path_array:
+  - 'http://erlangen-crm.org/240307/E11_Modification'
+  - 'http://erlangen-crm.org/240307/P17_was_motivated_by'
+  - 'http://erlangen-crm.org/240307/E3_Condition_State'
+datatype_property: empty
+short_name: null
+disamb: 2
+length: null
+description: null
+type: Path
+transitive: 0
+irreflexive: 0

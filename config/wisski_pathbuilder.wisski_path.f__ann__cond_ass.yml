@@ -1,0 +1,20 @@
+uuid: 2fad1530-2e68-4121-b1e4-c2503b7d9e22
+langcode: en
+status: true
+dependencies: {  }
+id: f__ann__cond_ass
+name: 'Annotation Entity'
+path_array:
+  - 'http://erlangen-crm.org/240307/E14_Condition_Assessment'
+  - 'http://erlangen-crm.org/240307/P141_assigned'
+  - 'http://erlangen-crm.org/240307/E36_Visual_Item'
+  - 'http://erlangen-crm.org/240307/P1_is_identified_by'
+  - 'http://wiss-ki.eu/ontology/1.1.0/URL'
+datatype_property: 'http://erlangen-crm.org/240307/P3_has_note'
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

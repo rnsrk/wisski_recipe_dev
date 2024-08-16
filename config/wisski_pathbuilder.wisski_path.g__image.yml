@@ -1,0 +1,16 @@
+uuid: 6197e180-9ab9-4c43-8acc-0a3d4d9942b6
+langcode: en
+status: true
+dependencies: {  }
+id: g__image
+name: Image
+path_array:
+  - 'http://erlangen-crm.org/240307/E36_Visual_Item'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: null
+irreflexive: null

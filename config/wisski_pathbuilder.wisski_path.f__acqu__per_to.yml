@@ -1,0 +1,18 @@
+uuid: 39d4bbd3-ef99-48cc-8f80-3e427a2715ac
+langcode: en
+status: true
+dependencies: {  }
+id: f__acqu__per_to
+name: 'To person'
+path_array:
+  - 'http://erlangen-crm.org/240307/E8_Acquisition'
+  - 'http://erlangen-crm.org/240307/P22_transferred_title_to'
+  - 'http://erlangen-crm.org/240307/E21_Person'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

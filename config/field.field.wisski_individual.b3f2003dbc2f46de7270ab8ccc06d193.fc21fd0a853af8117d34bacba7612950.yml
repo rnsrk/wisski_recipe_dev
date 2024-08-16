@@ -1,0 +1,23 @@
+uuid: 5661e33e-5f23-4ed3-ab9d-40f882ca2c93
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.wisski_individual.fc21fd0a853af8117d34bacba7612950
+    - wisski_core.wisski_bundle.b3f2003dbc2f46de7270ab8ccc06d193
+id: wisski_individual.b3f2003dbc2f46de7270ab8ccc06d193.fc21fd0a853af8117d34bacba7612950
+field_name: fc21fd0a853af8117d34bacba7612950
+entity_type: wisski_individual
+bundle: b3f2003dbc2f46de7270ab8ccc06d193
+label: Dimension
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:wisski_individual'
+  handler_settings:
+    target_bundles:
+      b73258adf62f35bd1be3fa2863fab558: b73258adf62f35bd1be3fa2863fab558
+field_type: entity_reference

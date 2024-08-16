@@ -1,0 +1,24 @@
+uuid: 07fbada6-05af-4247-928d-8722c471cbba
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.wisski_individual.ff95d862fd9ad11a08b21914ad614e2d
+    - wisski_core.wisski_bundle.b1c27e58b29754317081a4a3b834db48
+    - wisski_core.wisski_bundle.b3f2003dbc2f46de7270ab8ccc06d193
+id: wisski_individual.b1c27e58b29754317081a4a3b834db48.ff95d862fd9ad11a08b21914ad614e2d
+field_name: ff95d862fd9ad11a08b21914ad614e2d
+entity_type: wisski_individual
+bundle: b1c27e58b29754317081a4a3b834db48
+label: 'Add part'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:wisski_individual'
+  handler_settings:
+    target_bundles:
+      b3f2003dbc2f46de7270ab8ccc06d193: b3f2003dbc2f46de7270ab8ccc06d193
+field_type: entity_reference

@@ -1,0 +1,29 @@
+uuid: e57a27d9-6c37-4bd7-a43b-c1c6fdcd3c23
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.wisski_individual.ffa7bf4801a2d90ba6cf54565ba29f4f
+    - wisski_core.wisski_bundle.bb6ca9273196470a4707836b90029c07
+    - wisski_core.wisski_bundle.bc58c70a05b85a71576de1b97ed2779e
+id: wisski_individual.bb6ca9273196470a4707836b90029c07.ffa7bf4801a2d90ba6cf54565ba29f4f
+field_name: ffa7bf4801a2d90ba6cf54565ba29f4f
+entity_type: wisski_individual
+bundle: bb6ca9273196470a4707836b90029c07
+label: 'Transfer of Custody'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:wisski_individual'
+  handler_settings:
+    target_bundles:
+      bc58c70a05b85a71576de1b97ed2779e: bc58c70a05b85a71576de1b97ed2779e
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

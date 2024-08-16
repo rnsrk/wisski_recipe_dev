@@ -1,0 +1,18 @@
+uuid: 644942b3-4362-48dc-9b7c-2c52512b1c7f
+langcode: en
+status: true
+dependencies: {  }
+id: f__trans_o_cust__ref_person
+name: 'Person, who surrendered'
+path_array:
+  - 'http://erlangen-crm.org/240307/E10_Transfer_of_Custody'
+  - 'http://erlangen-crm.org/240307/P28_custody_surrendered_by'
+  - 'http://erlangen-crm.org/240307/E21_Person'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

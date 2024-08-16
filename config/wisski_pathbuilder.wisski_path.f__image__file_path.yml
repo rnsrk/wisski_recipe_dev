@@ -1,0 +1,18 @@
+uuid: 81846f7e-d351-4a69-8623-3dab55d5182f
+langcode: en
+status: true
+dependencies: {  }
+id: f__image__file_path
+name: 'File Path'
+path_array:
+  - 'http://erlangen-crm.org/240307/E36_Visual_Item'
+  - 'http://erlangen-crm.org/240307/P1_is_identified_by'
+  - 'http://wiss-ki.eu/ontology/1.1.0/URL'
+datatype_property: 'http://erlangen-crm.org/240307/P3_has_note'
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

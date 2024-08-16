@@ -1,0 +1,16 @@
+uuid: 7d821315-e2ae-43c6-b353-f47f78a2ae8a
+langcode: en
+status: true
+dependencies: {  }
+id: g__time_span
+name: Time-Span
+path_array:
+  - 'http://erlangen-crm.org/240307/E52_Time-Span'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: null
+irreflexive: null

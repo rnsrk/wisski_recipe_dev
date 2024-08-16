@@ -1,0 +1,16 @@
+uuid: 2c76c405-1eb1-4a80-9ee9-a27e97e269c6
+langcode: en
+status: true
+dependencies: {  }
+id: g__period
+name: 'Ownership and possession'
+path_array:
+  - 'http://erlangen-crm.org/240307/E4_Period'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: 0
+irreflexive: 0

@@ -1,0 +1,18 @@
+uuid: c979c7d2-e789-4d1b-bbd8-b3d157181383
+langcode: en
+status: true
+dependencies: {  }
+id: f__trans_o_cust__ref_person_rec
+name: 'Person, who received'
+path_array:
+  - 'http://erlangen-crm.org/240307/E10_Transfer_of_Custody'
+  - 'http://erlangen-crm.org/240307/P29_custody_received_by'
+  - 'http://erlangen-crm.org/240307/E21_Person'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

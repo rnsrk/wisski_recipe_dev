@@ -1,0 +1,19 @@
+uuid: 35e3e0f2-df70-4f85-b822-16388f2b05ae
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.wisski_individual.f50b8fec1ab16e77a15f4b2ccc55bb75
+    - wisski_core.wisski_bundle.b20a00a4fdeefd7f1fc409e2c6a9bfd2
+id: wisski_individual.b20a00a4fdeefd7f1fc409e2c6a9bfd2.f50b8fec1ab16e77a15f4b2ccc55bb75
+field_name: f50b8fec1ab16e77a15f4b2ccc55bb75
+entity_type: wisski_individual
+bundle: b20a00a4fdeefd7f1fc409e2c6a9bfd2
+label: 'Annotation Entity'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

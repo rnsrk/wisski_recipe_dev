@@ -1,0 +1,24 @@
+uuid: ec36678d-bb72-45c1-af33-a5aeb4e7b38c
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.wisski_individual.ffc98b28d3647f5df3cfb0356e69f809
+    - wisski_core.wisski_bundle.ba579dbd044f00ad5d2a7553a9918146
+    - wisski_core.wisski_bundle.bad442b10d5191921d3fc03a0fbeb4a6
+id: wisski_individual.bad442b10d5191921d3fc03a0fbeb4a6.ffc98b28d3647f5df3cfb0356e69f809
+field_name: ffc98b28d3647f5df3cfb0356e69f809
+entity_type: wisski_individual
+bundle: bad442b10d5191921d3fc03a0fbeb4a6
+label: 'From place'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:wisski_individual'
+  handler_settings:
+    target_bundles:
+      ba579dbd044f00ad5d2a7553a9918146: ba579dbd044f00ad5d2a7553a9918146
+field_type: entity_reference

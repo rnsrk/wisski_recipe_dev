@@ -1,0 +1,18 @@
+uuid: 5321147f-d8b7-4f04-a055-3ae7d76eecee
+langcode: en
+status: true
+dependencies: {  }
+id: f__ann__part_o_fragment
+name: 'Part of Fragement'
+path_array:
+  - 'http://erlangen-crm.org/240307/E14_Condition_Assessment'
+  - 'http://erlangen-crm.org/240307/P8_took_place_on_or_within'
+  - 'http://www.cidoc-crm.org/extensions/crmsci/S22_Segment_of_Matter'
+datatype_property: 'http://erlangen-crm.org/240307/P3_has_note'
+short_name: null
+disamb: 0
+length: null
+description: null
+type: Path
+transitive: 0
+irreflexive: 0

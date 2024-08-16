@@ -1,0 +1,18 @@
+uuid: 299bd62b-4b05-4884-abe4-cf423b9408bc
+langcode: en
+status: true
+dependencies: {  }
+id: f__right__image
+name: Image
+path_array:
+  - 'http://erlangen-crm.org/240307/E30_Right'
+  - 'http://erlangen-crm.org/240307/P138i_has_representation'
+  - 'http://erlangen-crm.org/240307/E36_Visual_Item'
+datatype_property: 'http://erlangen-crm.org/240307/P3_has_note'
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

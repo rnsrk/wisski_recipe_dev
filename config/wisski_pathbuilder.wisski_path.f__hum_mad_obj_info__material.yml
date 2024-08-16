@@ -1,0 +1,20 @@
+uuid: 1725036d-8f74-4df6-b30d-3694f3f1d1bb
+langcode: en
+status: true
+dependencies: {  }
+id: f__hum_mad_obj_info__material
+name: Material
+path_array:
+  - 'http://wiss-ki.eu/ontology/1.1.0/HumanMadeObjectInformation'
+  - 'http://erlangen-crm.org/240307/P141_assigned'
+  - 'http://erlangen-crm.org/240307/E57_Material'
+  - 'http://erlangen-crm.org/240307/P1_is_identified_by'
+  - 'http://wiss-ki.eu/ontology/1.1.0/PreferredName'
+datatype_property: 'http://erlangen-crm.org/240307/P3_has_note'
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

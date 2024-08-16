@@ -1,0 +1,19 @@
+uuid: bedb420c-5b7d-427c-bf12-4f640ecf65fb
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.wisski_individual.f1a6735ddd2a842b032474ba657c1c0f
+    - wisski_core.wisski_bundle.b20a00a4fdeefd7f1fc409e2c6a9bfd2
+id: wisski_individual.b20a00a4fdeefd7f1fc409e2c6a9bfd2.f1a6735ddd2a842b032474ba657c1c0f
+field_name: f1a6735ddd2a842b032474ba657c1c0f
+entity_type: wisski_individual
+bundle: b20a00a4fdeefd7f1fc409e2c6a9bfd2
+label: Canvas
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

@@ -1,0 +1,22 @@
+{
+    "name": "rnsrk/wisski-dev",
+    "description": "Installs and configures the WissKI dev site and supporting base modules.",
+    "keywords": ["recipe", "Drupal recipes", "drupal recipe"],
+    "type": "drupal-recipe",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Robert Nasarek",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "drupal/file_mdm_exif": "*",
+        "drupal/image_effects": "^4.0@beta",
+        "drupal/imagemagick": "*",
+        "drupal/geofield": "*",
+        "drupal/viewfield": "^4.0@beta",
+        "drupal/inline_entity_form": "^3.0@RC",
+        "drupal/wisski": "3.x-dev@dev"
+    }
+}

@@ -1,0 +1,18 @@
+uuid: 9704a5fb-29da-4805-95cd-62bdd609260d
+langcode: en
+status: true
+dependencies: {  }
+id: f__trans_o_cust__time_span
+name: 'Time span'
+path_array:
+  - 'http://erlangen-crm.org/240307/E10_Transfer_of_Custody'
+  - 'http://erlangen-crm.org/240307/P4_has_time-span'
+  - 'http://erlangen-crm.org/240307/E52_Time-Span'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

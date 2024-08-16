@@ -1,0 +1,16 @@
+uuid: b4649f3b-de30-442a-8940-7f0b9b0235c5
+langcode: en
+status: true
+dependencies: {  }
+id: g_annotation
+name: 'Condition Assessment'
+path_array:
+  - 'http://erlangen-crm.org/240307/E14_Condition_Assessment'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: 0
+irreflexive: 0

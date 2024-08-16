@@ -1,0 +1,19 @@
+uuid: d861bc79-b8b0-4f59-9f57-b5fa7a6f72df
+langcode: en
+status: true
+dependencies:
+  module:
+    - link
+    - wisski_core
+id: wisski_individual.f3fc3d470c57ae761d9d149a9d09e120
+field_name: f3fc3d470c57ae761d9d149a9d09e120
+entity_type: wisski_individual
+type: link
+settings: {  }
+module: link
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

@@ -1,0 +1,18 @@
+uuid: 1503e30a-44d4-42d4-a0db-f459c953f721
+langcode: en
+status: true
+dependencies: {  }
+id: f__transf__part
+name: 'Transform part'
+path_array:
+  - 'http://erlangen-crm.org/240307/E81_Transformation'
+  - 'http://erlangen-crm.org/240307/P124_transformed'
+  - 'http://erlangen-crm.org/240307/E22_Human-Made_Object'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

@@ -1,0 +1,151 @@
+uuid: 24dd1f4f-d7f7-4504-8937-8aa6288da716
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.wisski_individual.b4d710c0f7ce3cc23088b839d378be52.f1f40de58e267e9ea1b64ec1647e6387
+    - field.field.wisski_individual.b4d710c0f7ce3cc23088b839d378be52.f91b887e369ef273aecf1d37e37fa1ff
+    - field.field.wisski_individual.b4d710c0f7ce3cc23088b839d378be52.f97aa2aac50dea3d68175ad3600809e1
+    - field.field.wisski_individual.b4d710c0f7ce3cc23088b839d378be52.faaf02cb9713beef738590707a822a02
+    - field.field.wisski_individual.b4d710c0f7ce3cc23088b839d378be52.fe3f5f38ebe0a59ffbf0a21084438914
+    - field.field.wisski_individual.b4d710c0f7ce3cc23088b839d378be52.fe8e45e7b308366e347ca0ab64477f89
+    - field.field.wisski_individual.b4d710c0f7ce3cc23088b839d378be52.ff4e001c0d48255450a396bf88893d6d
+    - wisski_core.wisski_bundle.b4d710c0f7ce3cc23088b839d378be52
+  module:
+    - inline_entity_form
+id: wisski_individual.b4d710c0f7ce3cc23088b839d378be52.default
+targetEntityType: wisski_individual
+bundle: b4d710c0f7ce3cc23088b839d378be52
+mode: default
+content:
+  f1f40de58e267e9ea1b64ec1647e6387:
+    type: inline_entity_form_complex
+    weight: 1
+    region: content
+    settings:
+      form_mode: default
+      override_labels: false
+      label_singular: ''
+      label_plural: ''
+      allow_new: true
+      allow_existing: true
+      match_operator: CONTAINS
+      allow_duplicate: false
+      collapsible: false
+      collapsed: false
+      revision: false
+      removed_reference: optional
+    third_party_settings: {  }
+  f91b887e369ef273aecf1d37e37fa1ff:
+    type: inline_entity_form_complex
+    weight: 2
+    region: content
+    settings:
+      form_mode: default
+      override_labels: false
+      label_singular: ''
+      label_plural: ''
+      allow_new: true
+      allow_existing: true
+      match_operator: CONTAINS
+      allow_duplicate: false
+      collapsible: false
+      collapsed: false
+      revision: false
+      removed_reference: optional
+    third_party_settings: {  }
+  f97aa2aac50dea3d68175ad3600809e1:
+    type: inline_entity_form_complex
+    weight: 3
+    region: content
+    settings:
+      form_mode: default
+      override_labels: false
+      label_singular: ''
+      label_plural: ''
+      allow_new: true
+      allow_existing: true
+      match_operator: CONTAINS
+      allow_duplicate: false
+      collapsible: false
+      collapsed: false
+      revision: false
+      removed_reference: optional
+    third_party_settings: {  }
+  faaf02cb9713beef738590707a822a02:
+    type: inline_entity_form_complex
+    weight: 0
+    region: content
+    settings:
+      form_mode: default
+      override_labels: false
+      label_singular: ''
+      label_plural: ''
+      allow_new: true
+      allow_existing: true
+      match_operator: CONTAINS
+      allow_duplicate: false
+      collapsible: false
+      collapsed: false
+      revision: false
+      removed_reference: optional
+    third_party_settings: {  }
+  fe3f5f38ebe0a59ffbf0a21084438914:
+    type: inline_entity_form_complex
+    weight: 4
+    region: content
+    settings:
+      form_mode: default
+      override_labels: false
+      label_singular: ''
+      label_plural: ''
+      allow_new: true
+      allow_existing: true
+      match_operator: CONTAINS
+      allow_duplicate: false
+      collapsible: false
+      collapsed: false
+      revision: false
+      removed_reference: optional
+    third_party_settings: {  }
+  fe8e45e7b308366e347ca0ab64477f89:
+    type: inline_entity_form_complex
+    weight: 5
+    region: content
+    settings:
+      form_mode: default
+      override_labels: false
+      label_singular: ''
+      label_plural: ''
+      allow_new: true
+      allow_existing: true
+      match_operator: CONTAINS
+      allow_duplicate: false
+      collapsible: false
+      collapsed: false
+      revision: false
+      removed_reference: optional
+    third_party_settings: {  }
+  ff4e001c0d48255450a396bf88893d6d:
+    type: inline_entity_form_complex
+    weight: 6
+    region: content
+    settings:
+      form_mode: default
+      override_labels: false
+      label_singular: ''
+      label_plural: ''
+      allow_new: true
+      allow_existing: false
+      match_operator: CONTAINS
+      allow_duplicate: false
+      collapsible: false
+      collapsed: false
+      revision: false
+      removed_reference: optional
+    third_party_settings: {  }
+hidden:
+  created: true
+  label: true
+  name: true
+  uid: true

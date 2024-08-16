@@ -1,0 +1,18 @@
+uuid: efb4a77a-d791-4cdd-8ccb-42116a34705b
+langcode: en
+status: true
+dependencies: {  }
+id: f__mod__part_removal
+name: Removal
+path_array:
+  - 'http://erlangen-crm.org/240307/E11_Modification'
+  - 'http://erlangen-crm.org/240307/P10i_contains'
+  - 'http://erlangen-crm.org/240307/E80_Part_Removal'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

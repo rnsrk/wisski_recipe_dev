@@ -1,0 +1,11 @@
+uuid: 00afe02f-0d6f-4f19-937c-cab77313c2fd
+langcode: en
+status: true
+dependencies: {  }
+id: b3abeaeb21037a930e9d1ef438080dde
+label: Group
+title_pattern: ''
+on_empty: 3
+fallback_title: 'WissKI Entity'
+pager_limit: 10
+menu_items: {  }

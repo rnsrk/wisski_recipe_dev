@@ -1,0 +1,29 @@
+uuid: 4bfb6917-248b-4c00-b27f-812164fb9620
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.wisski_individual.f97aa2aac50dea3d68175ad3600809e1
+    - wisski_core.wisski_bundle.b31482b3d5318c40965bfc16237bf134
+    - wisski_core.wisski_bundle.b4d710c0f7ce3cc23088b839d378be52
+id: wisski_individual.b4d710c0f7ce3cc23088b839d378be52.f97aa2aac50dea3d68175ad3600809e1
+field_name: f97aa2aac50dea3d68175ad3600809e1
+entity_type: wisski_individual
+bundle: b4d710c0f7ce3cc23088b839d378be52
+label: Transformation
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:wisski_individual'
+  handler_settings:
+    target_bundles:
+      b31482b3d5318c40965bfc16237bf134: b31482b3d5318c40965bfc16237bf134
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

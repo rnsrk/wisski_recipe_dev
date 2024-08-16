@@ -1,0 +1,11 @@
+uuid: f1a29b2f-8ffa-4bea-9be4-f9ba8446453b
+langcode: en
+status: true
+dependencies: {  }
+id: b7a6de10bbb83db6a13c0043c1507d23
+label: 'Curated Holding'
+title_pattern: ''
+on_empty: 3
+fallback_title: 'WissKI Entity'
+pager_limit: 10
+menu_items: {  }

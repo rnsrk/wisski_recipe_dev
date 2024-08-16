@@ -1,0 +1,22 @@
+uuid: 4910c835-9a0c-48a7-971a-38d6cb1672e4
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.wisski_individual.f80c200739e0714eb07c9a98a3fffd75
+    - wisski_core.wisski_bundle.b1a0625a1b4f3130039940dae117fb68
+  module:
+    - text
+id: wisski_individual.b1a0625a1b4f3130039940dae117fb68.f80c200739e0714eb07c9a98a3fffd75
+field_name: f80c200739e0714eb07c9a98a3fffd75
+entity_type: wisski_individual
+bundle: b1a0625a1b4f3130039940dae117fb68
+label: Comment
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  allowed_formats: {  }
+field_type: text_long

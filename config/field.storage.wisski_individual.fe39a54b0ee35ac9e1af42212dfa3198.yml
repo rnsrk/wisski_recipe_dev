@@ -1,0 +1,48 @@
+uuid: 85e72d33-31e6-4781-b289-fb5128097dfa
+langcode: en
+status: true
+dependencies:
+  module:
+    - options
+    - wisski_core
+id: wisski_individual.fe39a54b0ee35ac9e1af42212dfa3198
+field_name: fe39a54b0ee35ac9e1af42212dfa3198
+entity_type: wisski_individual
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: bequests
+      label: Bequests
+    -
+      value: exchanges
+      label: Exchanges
+    -
+      value: gifts_and_donations
+      label: 'Gifts and Donations'
+    -
+      value: field_collecting
+      label: 'Field Collecting'
+    -
+      value: long_term_loans
+      label: 'Long-term Loans'
+    -
+      value: production
+      label: Production
+    -
+      value: ceremonial_objects
+      label: Purchase
+    -
+      value: repatriation_and_restitution
+      label: 'Repatriation and Restitution'
+    -
+      value: transfers
+      label: Transfers
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

@@ -1,0 +1,24 @@
+uuid: 32cd92e4-dce0-43f7-bb12-76ea749195f9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.wisski_individual.f59b019ab5e90ee92e76ad63f003cb73
+    - wisski_core.wisski_bundle.b3abeaeb21037a930e9d1ef438080dde
+    - wisski_core.wisski_bundle.bc58c70a05b85a71576de1b97ed2779e
+id: wisski_individual.bc58c70a05b85a71576de1b97ed2779e.f59b019ab5e90ee92e76ad63f003cb73
+field_name: f59b019ab5e90ee92e76ad63f003cb73
+entity_type: wisski_individual
+bundle: bc58c70a05b85a71576de1b97ed2779e
+label: 'Group, which surrendered'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:wisski_individual'
+  handler_settings:
+    target_bundles:
+      b3abeaeb21037a930e9d1ef438080dde: b3abeaeb21037a930e9d1ef438080dde
+field_type: entity_reference

@@ -1,0 +1,83 @@
+uuid: d68cc91a-0987-4ef3-bc66-5effb773ad0f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.wisski_individual.bc58c70a05b85a71576de1b97ed2779e.f0860941726b34080aff539f66b6b8ac
+    - field.field.wisski_individual.bc58c70a05b85a71576de1b97ed2779e.f4bda30f3b6a4b39985a0101d41290c9
+    - field.field.wisski_individual.bc58c70a05b85a71576de1b97ed2779e.f59b019ab5e90ee92e76ad63f003cb73
+    - field.field.wisski_individual.bc58c70a05b85a71576de1b97ed2779e.f8ce4c42096ac3e039f6e817bc1125dc
+    - field.field.wisski_individual.bc58c70a05b85a71576de1b97ed2779e.ff19143aaf6fe0ee143bd61f58e24ca7
+    - field.field.wisski_individual.bc58c70a05b85a71576de1b97ed2779e.ff76903f0840dad9d8b534f7474f50c8
+    - field.field.wisski_individual.bc58c70a05b85a71576de1b97ed2779e.ffbbde2c9b3712890a33fba014dd8891
+    - wisski_core.wisski_bundle.bc58c70a05b85a71576de1b97ed2779e
+  module:
+    - wisski_adapter_sparql11_pb
+id: wisski_individual.bc58c70a05b85a71576de1b97ed2779e.default
+targetEntityType: wisski_individual
+bundle: bc58c70a05b85a71576de1b97ed2779e
+mode: default
+content:
+  f0860941726b34080aff539f66b6b8ac:
+    type: wisski_entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 63
+    region: content
+  f4bda30f3b6a4b39985a0101d41290c9:
+    type: wisski_entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 69
+    region: content
+  f59b019ab5e90ee92e76ad63f003cb73:
+    type: wisski_entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 65
+    region: content
+  f8ce4c42096ac3e039f6e817bc1125dc:
+    type: wisski_entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 67
+    region: content
+  ff19143aaf6fe0ee143bd61f58e24ca7:
+    type: wisski_entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 66
+    region: content
+  ff76903f0840dad9d8b534f7474f50c8:
+    type: wisski_entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 68
+    region: content
+  ffbbde2c9b3712890a33fba014dd8891:
+    type: wisski_entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 64
+    region: content
+hidden:
+  created: true
+  label: true
+  name: true
+  preview_image: true
+  uid: true
+  wisski_uri: true

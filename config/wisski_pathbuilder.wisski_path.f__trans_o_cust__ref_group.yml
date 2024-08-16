@@ -1,0 +1,18 @@
+uuid: 9f883f8c-029b-4edf-8d1c-408c3e9e7599
+langcode: en
+status: true
+dependencies: {  }
+id: f__trans_o_cust__ref_group
+name: 'Group, which surrendered'
+path_array:
+  - 'http://erlangen-crm.org/240307/E10_Transfer_of_Custody'
+  - 'http://erlangen-crm.org/240307/P28_custody_surrendered_by'
+  - 'http://erlangen-crm.org/240307/E74_Group'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

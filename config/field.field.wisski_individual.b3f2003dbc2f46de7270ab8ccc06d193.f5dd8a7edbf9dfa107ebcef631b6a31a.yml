@@ -1,0 +1,23 @@
+uuid: 6603e9ee-9d27-45f1-99a0-89dc3bfde419
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.wisski_individual.f5dd8a7edbf9dfa107ebcef631b6a31a
+    - wisski_core.wisski_bundle.b3f2003dbc2f46de7270ab8ccc06d193
+id: wisski_individual.b3f2003dbc2f46de7270ab8ccc06d193.f5dd8a7edbf9dfa107ebcef631b6a31a
+field_name: f5dd8a7edbf9dfa107ebcef631b6a31a
+entity_type: wisski_individual
+bundle: b3f2003dbc2f46de7270ab8ccc06d193
+label: 'Information Assignment'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:wisski_individual'
+  handler_settings:
+    target_bundles:
+      b1a0625a1b4f3130039940dae117fb68: b1a0625a1b4f3130039940dae117fb68
+field_type: entity_reference

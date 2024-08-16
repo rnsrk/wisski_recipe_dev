@@ -1,0 +1,16 @@
+uuid: 62ac09ef-e708-4e05-82f7-53b62bb2f860
+langcode: en
+status: true
+dependencies: {  }
+id: g__dimension
+name: Dimension
+path_array:
+  - 'http://erlangen-crm.org/240307/E54_Dimension'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: null
+irreflexive: null

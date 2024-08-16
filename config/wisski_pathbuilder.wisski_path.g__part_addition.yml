@@ -1,0 +1,16 @@
+uuid: e24a9000-3f85-41c8-b41b-25743b8cbd8c
+langcode: en
+status: true
+dependencies: {  }
+id: g__part_addition
+name: Addition
+path_array:
+  - 'http://erlangen-crm.org/240307/E79_Part_Addition'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: null
+irreflexive: null

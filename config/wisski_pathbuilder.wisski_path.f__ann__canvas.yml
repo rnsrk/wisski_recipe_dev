@@ -1,0 +1,18 @@
+uuid: 55dd2a70-def1-4226-90c0-4b181151cc32
+langcode: en
+status: true
+dependencies: {  }
+id: f__ann__canvas
+name: Canvas
+path_array:
+  - 'http://erlangen-crm.org/240307/E14_Condition_Assessment'
+  - 'http://erlangen-crm.org/240307/P16_used_specific_object'
+  - 'http://erlangen-crm.org/240307/E31_Document'
+datatype_property: 'http://erlangen-crm.org/240307/P3_has_note'
+short_name: null
+disamb: 0
+length: null
+description: null
+type: Path
+transitive: 0
+irreflexive: 0

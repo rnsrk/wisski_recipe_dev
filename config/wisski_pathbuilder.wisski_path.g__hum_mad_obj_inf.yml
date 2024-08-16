@@ -1,0 +1,16 @@
+uuid: 8be6dd91-e197-4b5d-accd-2e73abd8d9d8
+langcode: en
+status: true
+dependencies: {  }
+id: g__hum_mad_obj_inf
+name: 'Object Information'
+path_array:
+  - 'http://wiss-ki.eu/ontology/1.1.0/HumanMadeObjectInformation'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: null
+irreflexive: null

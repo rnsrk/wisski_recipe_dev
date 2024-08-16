@@ -1,0 +1,30 @@
+uuid: 7957cc55-34e9-4d95-81cc-27fccf87bc79
+langcode: en
+status: true
+dependencies:
+  module:
+    - options
+    - wisski_core
+id: wisski_individual.fbf23f05280fde104c723f12b79c6d03
+field_name: fbf23f05280fde104c723f12b79c6d03
+entity_type: wisski_individual
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: after
+      label: after
+    -
+      value: before
+      label: before
+    -
+      value: exact_at
+      label: 'exactly on'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

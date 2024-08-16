@@ -1,0 +1,18 @@
+uuid: 48ef1ab4-509f-4633-a005-ef18feffa7f2
+langcode: en
+status: true
+dependencies: {  }
+id: f__part_rem__hum_mad_obj
+name: 'Remove part'
+path_array:
+  - 'http://erlangen-crm.org/240307/E80_Part_Removal'
+  - 'http://erlangen-crm.org/240307/P113_removed'
+  - 'http://erlangen-crm.org/240307/E22_Human-Made_Object'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

@@ -1,0 +1,83 @@
+uuid: 0ed55782-22f7-4bfb-8d13-8143ace85f6d
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.wisski_individual.b4d710c0f7ce3cc23088b839d378be52.f1f40de58e267e9ea1b64ec1647e6387
+    - field.field.wisski_individual.b4d710c0f7ce3cc23088b839d378be52.f91b887e369ef273aecf1d37e37fa1ff
+    - field.field.wisski_individual.b4d710c0f7ce3cc23088b839d378be52.f97aa2aac50dea3d68175ad3600809e1
+    - field.field.wisski_individual.b4d710c0f7ce3cc23088b839d378be52.faaf02cb9713beef738590707a822a02
+    - field.field.wisski_individual.b4d710c0f7ce3cc23088b839d378be52.fe3f5f38ebe0a59ffbf0a21084438914
+    - field.field.wisski_individual.b4d710c0f7ce3cc23088b839d378be52.fe8e45e7b308366e347ca0ab64477f89
+    - field.field.wisski_individual.b4d710c0f7ce3cc23088b839d378be52.ff4e001c0d48255450a396bf88893d6d
+    - wisski_core.wisski_bundle.b4d710c0f7ce3cc23088b839d378be52
+  module:
+    - wisski_adapter_sparql11_pb
+id: wisski_individual.b4d710c0f7ce3cc23088b839d378be52.default
+targetEntityType: wisski_individual
+bundle: b4d710c0f7ce3cc23088b839d378be52
+mode: default
+content:
+  f1f40de58e267e9ea1b64ec1647e6387:
+    type: wisski_entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  f91b887e369ef273aecf1d37e37fa1ff:
+    type: wisski_entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 3
+    region: content
+  f97aa2aac50dea3d68175ad3600809e1:
+    type: wisski_entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 4
+    region: content
+  faaf02cb9713beef738590707a822a02:
+    type: wisski_entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  fe3f5f38ebe0a59ffbf0a21084438914:
+    type: wisski_entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 5
+    region: content
+  fe8e45e7b308366e347ca0ab64477f89:
+    type: wisski_entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 6
+    region: content
+  ff4e001c0d48255450a396bf88893d6d:
+    type: wisski_entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 7
+    region: content
+hidden:
+  created: true
+  label: true
+  name: true
+  preview_image: true
+  uid: true
+  wisski_uri: true

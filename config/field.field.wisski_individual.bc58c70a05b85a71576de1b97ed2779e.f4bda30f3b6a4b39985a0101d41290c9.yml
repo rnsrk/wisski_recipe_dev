@@ -1,0 +1,24 @@
+uuid: 479f3c26-fc94-4c9b-a12b-21d185e2e79f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.wisski_individual.f4bda30f3b6a4b39985a0101d41290c9
+    - wisski_core.wisski_bundle.b69d1149474a37ad95f618ff2315662c
+    - wisski_core.wisski_bundle.bc58c70a05b85a71576de1b97ed2779e
+id: wisski_individual.bc58c70a05b85a71576de1b97ed2779e.f4bda30f3b6a4b39985a0101d41290c9
+field_name: f4bda30f3b6a4b39985a0101d41290c9
+entity_type: wisski_individual
+bundle: bc58c70a05b85a71576de1b97ed2779e
+label: 'Within Event'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:wisski_individual'
+  handler_settings:
+    target_bundles:
+      b69d1149474a37ad95f618ff2315662c: b69d1149474a37ad95f618ff2315662c
+field_type: entity_reference

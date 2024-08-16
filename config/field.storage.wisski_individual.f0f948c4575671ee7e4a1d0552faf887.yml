@@ -1,0 +1,51 @@
+uuid: 8a040c2b-3dff-4ec4-bcb7-fb0cecae55fc
+langcode: en
+status: true
+dependencies:
+  module:
+    - options
+    - wisski_core
+id: wisski_individual.f0f948c4575671ee7e4a1d0552faf887
+field_name: f0f948c4575671ee7e4a1d0552faf887
+entity_type: wisski_individual
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: architectural_elements
+      label: 'Architectural Elements'
+    -
+      value: ceremonial_objects
+      label: 'Ceremonial Objects'
+    -
+      value: containers
+      label: Containers
+    -
+      value: decorative_arts
+      label: 'Decorative Arts'
+    -
+      value: furnishings
+      label: Furnishings
+    -
+      value: sculpture
+      label: Sculpture
+    -
+      value: textiles
+      label: Textiles
+    -
+      value: tools_and_equipment
+      label: 'Tools and Equipment'
+    -
+      value: transportation_vehicles
+      label: 'Transportation Vehicles'
+    -
+      value: visual_works
+      label: 'Visual Works'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

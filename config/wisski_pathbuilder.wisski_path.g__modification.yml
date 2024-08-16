@@ -1,0 +1,16 @@
+uuid: 0a93640b-b881-4e2d-8beb-984f4b4dc073
+langcode: en
+status: true
+dependencies: {  }
+id: g__modification
+name: Modification
+path_array:
+  - 'http://erlangen-crm.org/240307/E11_Modification'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: null
+irreflexive: null

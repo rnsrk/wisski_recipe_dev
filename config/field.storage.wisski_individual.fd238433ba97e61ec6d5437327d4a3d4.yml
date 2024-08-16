@@ -1,0 +1,30 @@
+uuid: 0ca947c9-21c4-4197-a902-eb376973a9d6
+langcode: en
+status: true
+dependencies:
+  module:
+    - file
+    - image
+    - wisski_core
+id: wisski_individual.fd238433ba97e61ec6d5437327d4a3d4
+field_name: fd238433ba97e61ec6d5437327d4a3d4
+entity_type: wisski_individual
+type: image
+settings:
+  target_type: file
+  display_field: false
+  display_default: false
+  uri_scheme: public
+  default_image:
+    uuid: null
+    alt: ''
+    title: ''
+    width: null
+    height: null
+module: image
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

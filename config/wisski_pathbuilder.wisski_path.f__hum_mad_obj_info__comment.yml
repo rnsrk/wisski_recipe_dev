@@ -1,0 +1,18 @@
+uuid: 7accd016-451e-47d9-b54f-a109fc9ab83d
+langcode: en
+status: true
+dependencies: {  }
+id: f__hum_mad_obj_info__comment
+name: Comment
+path_array:
+  - 'http://wiss-ki.eu/ontology/1.1.0/HumanMadeObjectInformation'
+  - 'http://erlangen-crm.org/240307/P141_assigned'
+  - 'http://wiss-ki.eu/ontology/1.1.0/Comment'
+datatype_property: 'http://erlangen-crm.org/240307/P3_has_note'
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

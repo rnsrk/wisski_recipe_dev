@@ -1,0 +1,18 @@
+uuid: f230508f-57be-4fed-b5ed-ea14817a8d51
+langcode: en
+status: true
+dependencies: {  }
+id: f__prod__time_span
+name: Time-Span
+path_array:
+  - 'http://erlangen-crm.org/240307/E12_Production'
+  - 'http://erlangen-crm.org/240307/P4_has_time-span'
+  - 'http://erlangen-crm.org/240307/E52_Time-Span'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

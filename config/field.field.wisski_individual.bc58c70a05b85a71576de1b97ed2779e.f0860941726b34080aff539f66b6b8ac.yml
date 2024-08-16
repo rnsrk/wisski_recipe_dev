@@ -1,0 +1,24 @@
+uuid: 21723ce9-7076-494d-9df5-4d8e3a462490
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.wisski_individual.f0860941726b34080aff539f66b6b8ac
+    - wisski_core.wisski_bundle.b7d3d34546ab6c601bb930140e9b7615
+    - wisski_core.wisski_bundle.bc58c70a05b85a71576de1b97ed2779e
+id: wisski_individual.bc58c70a05b85a71576de1b97ed2779e.f0860941726b34080aff539f66b6b8ac
+field_name: f0860941726b34080aff539f66b6b8ac
+entity_type: wisski_individual
+bundle: bc58c70a05b85a71576de1b97ed2779e
+label: 'Person, who surrendered'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:wisski_individual'
+  handler_settings:
+    target_bundles:
+      b7d3d34546ab6c601bb930140e9b7615: b7d3d34546ab6c601bb930140e9b7615
+field_type: entity_reference

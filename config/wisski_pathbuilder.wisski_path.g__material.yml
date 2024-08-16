@@ -1,0 +1,16 @@
+uuid: c1487243-18c6-4b42-abd2-5c46b42600e2
+langcode: en
+status: true
+dependencies: {  }
+id: g__material
+name: Material
+path_array:
+  - 'http://erlangen-crm.org/240307/E57_Material'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: null
+irreflexive: null

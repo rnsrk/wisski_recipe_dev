@@ -1,0 +1,18 @@
+uuid: c48c870c-6e71-4177-b2b3-20924a58c244
+langcode: en
+status: true
+dependencies: {  }
+id: f__hum_mad_obj__ref_info_ass
+name: 'Information Assignment'
+path_array:
+  - 'http://erlangen-crm.org/240307/E22_Human-Made_Object'
+  - 'http://erlangen-crm.org/240307/P140i_was_attributed_by'
+  - 'http://wiss-ki.eu/ontology/1.1.0/HumanMadeObjectInformation'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

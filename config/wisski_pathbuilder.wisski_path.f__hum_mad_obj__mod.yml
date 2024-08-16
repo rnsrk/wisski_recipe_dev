@@ -1,0 +1,18 @@
+uuid: a44c4915-5087-4fc2-a738-79893676f5df
+langcode: en
+status: true
+dependencies: {  }
+id: f__hum_mad_obj__mod
+name: Modification
+path_array:
+  - 'http://erlangen-crm.org/240307/E22_Human-Made_Object'
+  - 'http://erlangen-crm.org/240307/P31i_was_modified_by'
+  - 'http://erlangen-crm.org/240307/E11_Modification'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

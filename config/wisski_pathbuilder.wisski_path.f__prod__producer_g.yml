@@ -1,0 +1,18 @@
+uuid: 1dfe932b-4253-483c-9daa-88ca04d38b19
+langcode: en
+status: true
+dependencies: {  }
+id: f__prod__producer_g
+name: 'Producer (Group)'
+path_array:
+  - 'http://erlangen-crm.org/240307/E12_Production'
+  - 'http://erlangen-crm.org/240307/P14_carried_out_by'
+  - 'http://erlangen-crm.org/240307/E74_Group'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

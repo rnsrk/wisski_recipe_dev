@@ -1,0 +1,18 @@
+uuid: 92b498da-e898-4af6-806f-ceac6b61062f
+langcode: en
+status: true
+dependencies: {  }
+id: f__trans_o_cust__move
+name: 'Motivated move'
+path_array:
+  - 'http://erlangen-crm.org/240307/E10_Transfer_of_Custody'
+  - 'http://erlangen-crm.org/240307/P17i_motivated'
+  - 'http://erlangen-crm.org/240307/E9_Move'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

@@ -1,0 +1,16 @@
+uuid: e6974fa3-db77-4cf7-9039-6e0e92bb07f7
+langcode: en
+status: true
+dependencies: {  }
+id: g__right
+name: Right
+path_array:
+  - 'http://erlangen-crm.org/240307/E30_Right'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: null
+irreflexive: null

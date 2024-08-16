@@ -1,0 +1,18 @@
+uuid: a08ef127-45bb-4a87-8ab8-cb75f5e9afdb
+langcode: en
+status: true
+dependencies: {  }
+id: f__part_add__feature
+name: 'Add feature'
+path_array:
+  - 'http://erlangen-crm.org/240307/E79_Part_Addition'
+  - 'http://erlangen-crm.org/240307/P111_added'
+  - 'http://erlangen-crm.org/240307/E25_Human-Made_Feature'
+datatype_property: empty
+short_name: ''
+disamb: 2
+length: null
+description: ''
+type: Path
+transitive: null
+irreflexive: null

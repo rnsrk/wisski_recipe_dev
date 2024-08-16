@@ -1,0 +1,16 @@
+uuid: a359e92a-1eec-4434-aee1-53847b189ec5
+langcode: en
+status: true
+dependencies: {  }
+id: g__trans_o_cust
+name: 'Transfer of Custody'
+path_array:
+  - 'http://erlangen-crm.org/240307/E10_Transfer_of_Custody'
+datatype_property: empty
+short_name: ''
+disamb: 0
+length: null
+description: ''
+type: Group
+transitive: null
+irreflexive: null

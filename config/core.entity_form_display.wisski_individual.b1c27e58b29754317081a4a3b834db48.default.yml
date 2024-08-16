@@ -1,0 +1,56 @@
+uuid: f6f1a288-c1b5-4918-a9f8-1899f72d2b45
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.wisski_individual.b1c27e58b29754317081a4a3b834db48.f9cfccd1cd50d023a845dd8f65374f6d
+    - field.field.wisski_individual.b1c27e58b29754317081a4a3b834db48.ff95d862fd9ad11a08b21914ad614e2d
+    - wisski_core.wisski_bundle.b1c27e58b29754317081a4a3b834db48
+  module:
+    - inline_entity_form
+id: wisski_individual.b1c27e58b29754317081a4a3b834db48.default
+targetEntityType: wisski_individual
+bundle: b1c27e58b29754317081a4a3b834db48
+mode: default
+content:
+  f9cfccd1cd50d023a845dd8f65374f6d:
+    type: inline_entity_form_complex
+    weight: 1
+    region: content
+    settings:
+      form_mode: default
+      override_labels: false
+      label_singular: ''
+      label_plural: ''
+      allow_new: true
+      allow_existing: false
+      match_operator: CONTAINS
+      allow_duplicate: false
+      collapsible: false
+      collapsed: false
+      revision: false
+      removed_reference: optional
+    third_party_settings: {  }
+  ff95d862fd9ad11a08b21914ad614e2d:
+    type: inline_entity_form_complex
+    weight: 0
+    region: content
+    settings:
+      form_mode: default
+      override_labels: false
+      label_singular: ''
+      label_plural: ''
+      allow_new: true
+      allow_existing: false
+      match_operator: CONTAINS
+      allow_duplicate: false
+      collapsible: false
+      collapsed: false
+      revision: false
+      removed_reference: optional
+    third_party_settings: {  }
+hidden:
+  created: true
+  label: true
+  name: true
+  uid: true
