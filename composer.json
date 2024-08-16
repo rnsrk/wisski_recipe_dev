@@ -12,9 +12,10 @@
     ],
     "require": {
         "drupal/file_mdm_exif": "*",
+        "drupal/geofield": "*",
         "drupal/image_effects": "^4.0@beta",
         "drupal/imagemagick": "*",
-        "drupal/geofield": "*",
+        "drupal/leaflet": "*",
         "drupal/viewfield": "^3.0@beta",
         "drupal/inline_entity_form": "^3.0@RC",
         "drupal/wisski": "3.x-dev@dev"
