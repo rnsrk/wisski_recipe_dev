@@ -14,7 +14,7 @@
         "drupal/file_mdm_exif": "*",
         "drupal/geofield": "*",
         "drupal/image_effects": "^4.0@beta",
-        "drupal/imagemagick": "*",
+        "drupal/imagemagick": "4.0",
         "drupal/leaflet": "*",
         "drupal/viewfield": "^3.0@beta",
         "drupal/inline_entity_form": "^3.0@RC",
