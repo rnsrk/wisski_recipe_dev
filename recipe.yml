@@ -19,6 +19,9 @@ install:
   - wisski_salz
   - wisski_adapter_sparql11_pb
   - wisski
+  - wisski_iip_image
+  - wisski_mirador
+  
 
 config:
   import:
