@@ -4,7 +4,10 @@ type: 'Site'
 recipes:
   - standard
 install:
+  - file_mdm
   - file_mdm_exif
+  - file_mdm_font
+  - sophron
   - image_effects
   - imagemagick
   - geofield
