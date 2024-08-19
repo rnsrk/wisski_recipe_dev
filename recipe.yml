@@ -14,6 +14,8 @@ install:
   - viewfield
   - inline_entity_form
   - wisski
+  - wisski_iip_image
+  - wisski_mirador
 config:
   import:
     image_effects: "*"
