@@ -1,5 +1,0 @@
-iiif_server: 'https://kur.wisski.cloud/fcgi-bin/iipsrv.fcgi?IIIF='
-iiif_prefix: /var/www/data/project/web/sites/default/files/
-iiif_licence: ''
-iiif_attribution: ''
-filename_as_label: 0

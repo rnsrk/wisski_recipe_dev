@@ -13,14 +13,13 @@ install:
   - geofield
   - viewfield
   - inline_entity_form
+  - wisski_pathbuilder
   - wisski_core
   - wisski_autocomplete
-  - wisski_pathbuilder
   - wisski_salz
   - wisski_adapter_sparql11_pb
   - wisski
-  - wisski_iip_image
-  - wisski_mirador
+
 config:
   import:
     image_effects: "*"
