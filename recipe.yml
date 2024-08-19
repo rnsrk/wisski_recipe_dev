@@ -9,7 +9,7 @@ install:
   - imagemagick
   - geofield
   - viewfield
-  - entity_inline_form
+  - inline_entity_form
   - wisski
 config:
   import:
@@ -17,5 +17,5 @@ config:
     imagemagick: "*"
     geofield: "*"
     viewfield: "*"
-    entity_inline_form: "*"
+    inline_entity_form: "*"
     wisski: "*"
